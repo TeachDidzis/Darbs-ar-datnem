@@ -1,0 +1,14 @@
+Darbs ar teksta datnēm:
+
+1. Izveido programmu, kas nolasa teksta failu un izdrukā tā saturu terminālī.
+2. Izveido programmu, kas nolasa teksta failu un izdrukā rindiņu skaitu šajā failā.
+3. Izveido programmu, kas pievieno jaunu tekstu teksta faila beigās.
+4. Izveido programmu, kas pārveido esošo failu, izdzēšot tā saturu, un ieraksta jaunu tekstu.
+5. Izveido programmu, kas nolasa teksta failu, apgriež visas rindiņas reversā secībā un saglabā to jaunā failā.
+6. Izveido programmu, kas nolasa teksta failu un saskaita tajā esošo vārdu skaitu.
+7. Izveido programmu, kas nolasa divus teksta failus un apvieno tos vienā jaunā failā.
+
+Darbs ar csv datnēm
+1. Izveido programmu, kas nolasa csv failu un izdrukā tā saturu terminālī sakārtotā veidā.
+2. Izveido programmu, kas papildina dotu csv failu ar jaunu tekstu.
+3. Izveido programmu, kas pārraksta esošu csv datni ar jaunu tekstu.
