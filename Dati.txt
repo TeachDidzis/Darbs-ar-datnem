@@ -1,0 +1,3 @@
+Jānis,Bērziņš,25
+Anna,Ozoliņa,30
+Pēteris,Kļaviņš,22Elīna,Bērziņa,30
