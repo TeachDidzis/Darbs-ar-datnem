@@ -8,7 +8,10 @@ Darbs ar teksta datnēm:
 6. Izveido programmu, kas nolasa teksta failu un saskaita tajā esošo vārdu skaitu.
 7. Izveido programmu, kas nolasa divus teksta failus un apvieno tos vienā jaunā failā.
 
-Darbs ar csv datnēm
+Darbs ar csv datnēm:
 1. Izveido programmu, kas nolasa csv failu un izdrukā tā saturu terminālī sakārtotā veidā.
 2. Izveido programmu, kas papildina dotu csv failu ar jaunu tekstu.
 3. Izveido programmu, kas pārraksta esošu csv datni ar jaunu tekstu.
+
+Papildus:
+1. Izveido programmu, kas izveido datni ar nosaukumu "Jauna_datne" un tajā ieraksta tekstu "Šī ir izveidota datne ar saturu!"
